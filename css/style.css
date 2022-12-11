@@ -6,7 +6,7 @@
 body {
   background-color: #171923;
   color: #eee;
-  font-family: "Courier New", Courier, monospace;
+  font-family: 'Rubik', Courier, monospace;
   margin: 0px;
 }
 
@@ -27,8 +27,8 @@ body {
 }
 
 img {
-  width: 180px;
-  height: 180px;
+  width: 260px;
+  height: 260px;
   border-radius: 50%;
 }
 
